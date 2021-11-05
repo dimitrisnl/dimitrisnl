@@ -20,7 +20,7 @@
 - [Ditching manual releases with Changesets](https://dnlytras.com/blog/using-changesets/)
 - [How I load my web fonts in Gatsby](https://dnlytras.com/blog/how-i-load-fonts/)
 
-##### NOW <a href="https://dnlytras.com/now"><small>↗</small></a>
+##### NOW
 
 - 💎 Studying Full-stack Ethereum development
 - 🇪🇸 Studying Spanish (B1)
