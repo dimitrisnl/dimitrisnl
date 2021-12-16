@@ -1,7 +1,6 @@
 <div>
 <a href="https://dnlytras.com">
-<img src="https://dnlytras.com/github/qr.png" align="right" width="120px" />
-<img src="https://dnlytras.com/github/horionos.png" align="right" width="120px"></a>
+<img src="https://dnlytras.com/github/qr.png" align="right" width="100px" />
 </div>
 <h4>I'm Dimitrios<br> a software engineer<br/>passionate about web <br /> & blockchain development</h3>
 
