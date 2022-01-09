@@ -2,7 +2,7 @@
 <a href="https://dnlytras.com">
 <img src="https://dnlytras.com/github/qr.png" align="right" width="100px" />
 </div>
-<h4>I'm Dimitrios<br> a software engineer<br/>passionate about web <br /> & blockchain development</h3>
+<h4>I'm Dimitrios, a software engineer<br/>passionate about web development</h3>
 
 <h5>
 <a href="https://dnlytras.com">website</a> /
@@ -15,23 +15,15 @@
 
 ##### LATEST POSTS <a href="https://dnlytras.com/blog"><small>↗</small></a>
   
+- [Working remotely](https://dnlytras.com/blog/remote-work/)  
 - [All company chat should be in public](https://dnlytras.com/blog/chat-in-public/)
 - [Ditching manual releases with Changesets](https://dnlytras.com/blog/using-changesets/)
-- [How I load my web fonts in Gatsby](https://dnlytras.com/blog/how-i-load-fonts/)
 
-##### NOW
-
-- 💎 Studying Full-stack Ethereum development
-- 🐈 Trying out Nest.js
-- 🇪🇸 Studying Spanish (B1)
-- 📚 Reading [Into Thin Air](https://www.goodreads.com/book/show/1898.Into_Thin_Air)
-- ⚽️ Obsessing over FPL
 
 ##### WORK
 
 - 🏡 Working remotely from Athens, Greece
 - 🧰 Mostly writing **React** & **TypeScript** these days
-- 🥞 Enjoying working with **Next.js** & **Redux/RTK**
 
 ##### 5 FAVOURITE ARTICLES
 
