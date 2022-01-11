@@ -13,22 +13,29 @@
 
 ---
 
-##### LATEST POSTS <a href="https://dnlytras.com/blog"><small>↗</small></a>
+##### Most recent posts:
   
 - [Working remotely](https://dnlytras.com/blog/remote-work/)  
 - [All company chat should be in public](https://dnlytras.com/blog/chat-in-public/)
 - [Ditching manual releases with Changesets](https://dnlytras.com/blog/using-changesets/)
-
-
-##### WORK
+  
+##### Daily work:
 
 - 🏡 Working remotely from Athens, Greece
-- 🧰 Mostly writing **React** & **TypeScript** these days
+- 🧰 Mostly using **React**, **Next.js** & **TypeScript** these days
+- 🪖 Also interested in **XState**, **Nestjs** & **Rails**
+  
+ 
+ ##### Listening to:
+  
+- [Rework](https://www.rework.fm/index.html)
+- [Daily Stoic](https://podbay.fm/p/the-daily-stoic)
+- [Indie Hackers](https://podbay.fm/p/the-indie-hackers-podcast)
+- [Soft Skills Engineering](https://podbay.fm/p/soft-skills-engineering)
+- [The Bootstrapped Founder](https://podbay.fm/p/the-bootstrapped-founder)
 
-##### 5 FAVOURITE ARTICLES
+##### Some articles I like:
 
-- [Never wait](https://sive.rs/neverwait)
 - [Give it five minutes](https://m.signalvnoise.com/give-it-five-minutes/)
 - [Keep your identity small](http://www.paulgraham.com/identity.html)  
 - [GitHub stars won’t pay your rent](https://medium.com/@kitze/github-stars-wont-pay-your-rent-8b348e12baed)
-- [Mediocre ideas, showing up, and persistence](https://chriscoyier.net/2013/10/18/mediocre-ideas-showing-up-and-persistence/)
