@@ -15,6 +15,7 @@
 
 ##### Most recent posts:
   
+- [Crypto & the fear of missing out](https://dnlytras.com/blog/crypto-fomo/)
 - [Working remotely](https://dnlytras.com/blog/remote-work/)  
 - [All company chat should be in public](https://dnlytras.com/blog/chat-in-public/)
 - [Ditching manual releases with Changesets](https://dnlytras.com/blog/using-changesets/)
