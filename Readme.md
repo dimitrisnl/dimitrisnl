@@ -24,7 +24,7 @@
 
 - 🏡 Working remotely from Athens, Greece
 - 🧰 Mostly using **React**, **Next.js** & **TypeScript** these days
-- 🪖 Also interested in **XState**, **Nestjs** & **Rails**
+- 🪖 Also interested in **XState**, **Nestjs**, **RTK** & **Remix**
   
  
  ##### Listening to:
