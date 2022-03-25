@@ -15,6 +15,7 @@
 
 ##### Most recent posts:
   
+- [Modern PHP](https://dnlytras.com/blog/modern-php/)  
 - [Nominal types in TypeScript](https://dnlytras.com/blog/nominal-types/)  
 - [Crypto & the fear of missing out](https://dnlytras.com/blog/crypto-fomo/)
 - [Working remotely](https://dnlytras.com/blog/remote-work/)  
