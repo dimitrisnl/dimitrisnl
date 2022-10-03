@@ -25,20 +25,5 @@
 ##### Daily work:
 
 - 🏡 Working remotely from Athens, Greece
-- 🧰 Mostly using **React**, **Next.js** & **TypeScript** these days
+- 🧰 Mostly using **React**, **Next.js**, **TypeScript** & **FP-TS**
 - 🪖 Also interested in **XState**, **Nestjs**, **RTK** & **Remix**
-  
- 
- ##### Listening to:
-  
-- [Rework](https://www.rework.fm/index.html)
-- [Daily Stoic](https://podbay.fm/p/the-daily-stoic)
-- [Indie Hackers](https://podbay.fm/p/the-indie-hackers-podcast)
-- [Soft Skills Engineering](https://podbay.fm/p/soft-skills-engineering)
-- [The Bootstrapped Founder](https://podbay.fm/p/the-bootstrapped-founder)
-
-##### Some articles I like:
-
-- [Give it five minutes](https://m.signalvnoise.com/give-it-five-minutes/)
-- [Keep your identity small](http://www.paulgraham.com/identity.html)  
-- [GitHub stars won’t pay your rent](https://medium.com/@kitze/github-stars-wont-pay-your-rent-8b348e12baed)
