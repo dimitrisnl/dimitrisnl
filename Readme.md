@@ -22,6 +22,6 @@
 
  
  ##### Now:
--  ♟  Studying Chess
-- 🏎 Obsessing over F1
-- 👾 Tinkering with **Adonis.js**
+- ♟️ Studying chess
+- 🥋 Getting back into BJJ
+- 👾 Tinkering with Adonis.js
