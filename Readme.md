@@ -2,7 +2,6 @@
 
 <h5>
 <a href="https://dnlytras.com">website</a> /
-<a href="https://dnlytras.com/blog">blog</a> /
 <a href="https://twitter.com/dnlytras">twitter</a> /
 <a href="https://www.linkedin.com/in/dnlytras/">linkedin<a/>
 </h5>
@@ -22,6 +21,7 @@
 
  
  ##### Now:
+- 📘 Reading Inherent Vice
 - ♟️ Studying chess
 - 🥋 Getting back into BJJ
-- 👾 Tinkering with Adonis.js
+- 👾 Tinkering with Remix
