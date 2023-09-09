@@ -17,11 +17,10 @@
 ##### Work:
 
 - 🏡 Working remotely from Athens, Greece
-- 🧰 Mostly using **React**, **Next.js**, **TypeScript** & **FP-TS**
+- 🧰 Building with **React**, **Remix**, **TypeScript** & **Effect-TS**
 
  
  ##### Now:
-- 📘 Reading Inherent Vice
+- 📘 Reading The Wager
 - ♟️ Studying chess
-- 🥋 Getting back into BJJ
-- 👾 Tinkering with Remix
+- 🏎 Playing F1 23
