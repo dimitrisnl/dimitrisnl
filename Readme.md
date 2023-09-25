@@ -10,6 +10,7 @@
 
 ##### Recent posts:
 
+- [Working with Remix](https://dnlytras.com/blog/working-with-remix)
 - [Building a browser extension](https://dnlytras.com/blog/building-browser-extension)   
 - [Rewriting my blog with Next.js](https://dnlytras.com/blog/rewriting-with-next)    
 - [Using RxJS with React](https://dnlytras.com/blog/rxjs-react)    
