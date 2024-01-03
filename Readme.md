@@ -22,6 +22,6 @@
 
  
  ##### Now:
-- 📘 Reading The Wager
+- 📘 Reading [The Rise of Theodore Roosevelt](https://www.goodreads.com/en/book/show/40929)
 - ♟️ Studying chess
 - 🏎 Playing F1 23
