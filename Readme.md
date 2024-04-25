@@ -10,6 +10,7 @@
 
 ##### Recent posts:
 
+- [My impressions on Effect-TS](https://dnlytras.com/blog/effect-ts)
 - [Working with Remix](https://dnlytras.com/blog/working-with-remix)
 - [Building a browser extension](https://dnlytras.com/blog/building-browser-extension)   
 - [Rewriting my blog with Next.js](https://dnlytras.com/blog/rewriting-with-next)    
@@ -22,6 +23,6 @@
 
  
  ##### Now:
-- 📘 Reading [The Rise of Theodore Roosevelt](https://www.goodreads.com/en/book/show/40929)
-- ♟️ Studying chess
-- 🏎 Playing F1 23
+- 🐣 Dadding
+- ♟️ Blundering in Chess
+- 🧪 Studying Elixir
