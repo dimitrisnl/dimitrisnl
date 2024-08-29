@@ -10,19 +10,18 @@
 
 ##### Recent posts:
 
+- [Elixir: Import, Require, Use or Alias?](https://dnlytras.com/blog/elixir-import-require-use-alias)
+- [The full-stack framework discourse](https://dnlytras.com/blog/fullstack-discourse)
 - [My impressions on Effect-TS](https://dnlytras.com/blog/effect-ts)
 - [Working with Remix](https://dnlytras.com/blog/working-with-remix)
 - [Building a browser extension](https://dnlytras.com/blog/building-browser-extension)   
-- [Rewriting my blog with Next.js](https://dnlytras.com/blog/rewriting-with-next)    
-- [Using RxJS with React](https://dnlytras.com/blog/rxjs-react)    
   
 ##### Work:
 
 - 🏡 Working remotely from Athens, Greece
-- 🧰 Building with **React**, **Remix**, **TypeScript** & **Effect-TS**
+- 👷 Building with **React**, **Remix**, **TypeScript** & **Elixir**
 
  
  ##### Now:
 - 🐣 Dadding
 - ♟️ Blundering in Chess
-- 🧪 Studying Elixir
