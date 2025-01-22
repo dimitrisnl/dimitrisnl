@@ -10,6 +10,7 @@
 
 <h5>Recent posts</h5>
 
+- [My experience with Phoenix LiveView](https://dnlytras.com/blog/on-liveview)
 - [Separate Session Tokens in Phoenix](https://dnlytras.com/blog/separate-session-tokens-phoenix)
 - [Elixir: Import, Require, Use or Alias?](https://dnlytras.com/blog/elixir-import-require-use-alias)
 - [The full-stack framework discourse](https://dnlytras.com/blog/fullstack-discourse)
