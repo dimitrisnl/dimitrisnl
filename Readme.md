@@ -1,7 +1,6 @@
 
 <h5>
 <a href="https://dnlytras.com">website</a> /
-<a href="https://bsky.app/profile/dnlytras.com">bsky</a> /
 <a href="https://twitter.com/dnlytras">x</a> /
 <a href="https://www.linkedin.com/in/dnlytras/">linkedin<a/>
 </h5>
